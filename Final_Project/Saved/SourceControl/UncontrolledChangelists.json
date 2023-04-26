@@ -5,9 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"F:/GetHub/Research-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R0/HVQ3PWPV5RVGTVTOU6KG4K.uasset",
 				"F:/GetHub/Research-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
 				"F:/GetHub/Research-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+=======
+				"E:/GitHub/Reasearch-Project/Final_Project/Content/Inventory_system/BPC_Inventory.uasset",
+>>>>>>> main
 				"F:/GitHub/Reasearch-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"F:/GitHub/Reasearch-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
 				"F:/GitHub/Reasearch-Project/Final_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
